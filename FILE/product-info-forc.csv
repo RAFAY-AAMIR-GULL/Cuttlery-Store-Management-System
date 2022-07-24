@@ -1,0 +1,17 @@
+﻿ID,Name,Size,Material,Type,Price (Rs),Weightage (g),Description
+1,Spoon,Small/Medium/Large,Stainless Steel,Fresh,40/55/70,40/50/60,Stylish and durable
+2,Spoon,Small/Medium/Large,Steel,Fresh,30/40/50,45/55/65,Stylish
+3,Spoon,Small/Medium/Large,wood & Stainless Steel,Fresh,65/75/85,50/60/70,Stylish and unique for special occasions
+4,Spoon,Small/Medium/Large,NA,Antique,70/85/100,50/60/70,Unique and Stylish for special occasions
+5,Knife,Small/Medium/Large,Stainless Steel,Fresh,50/60/70,38/48/58,Stylish and durable
+6,Knife,Small/Medium/Large,Steel,Fresh,30/40/50,42/52/62,Stylish
+7,Knife,Small/Medium/Large,wood & Stainless Steel,Fresh,65/75/85,37/47/57,Stylish and unique for special occasions
+8,Knife,Small/Medium/Large,NA,Antique,70/85/100,50/60/70,Unique and Stylish for special occasions
+9,Fork,Small/Medium/Large,Stainless Steel,Fresh,50/60/70,38/48/58,Stylish and durable
+10,Fork,Small/Medium/Large,Steel,Fresh,30/40/50,42/52/62,Stylish
+11,Fork,Small/Medium/Large,wood & Stainless Steel,Fresh,60/75/85,37/47/57,Stylish and unique for special occasions
+12,Fork,Small/Medium/Large,NA,Antique,70/85/100,50/60/70,Unique and Stylish for special occasions
+13,Deal #1 (3 in 1),Small/Medium/Large,Stainless Steel,Fresh,1300//,NA,6xDinnerSpoon  + 6xDinnerFork + 6xDinnerKnife
+14,Deal #2 (3 in 1),Small/Medium/Large,Steel,Fresh,880//,NA,6xDinnerSpoon  + 6xDinnerFork + 6xDinnerKnife
+15,Deal #3 (3 in 1),Small/Medium/Large,wood & Stainless Steel,Antique,1540//,NA,6xDinnerSpoon  + 6xDinnerFork + 6xDinnerKnife
+16,Deal #4 (3 in 1),Small/Medium/Large,NA,Antique,1990//,NA,6xDinnerSpoon  + 6xDinnerFork + 6xDinnerKnife
